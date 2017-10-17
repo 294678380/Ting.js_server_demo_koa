@@ -1,0 +1,15 @@
+{
+  "name": "ting.js_server_demo_koa",
+  "version": "1.0.0",
+  "description": "tingjs for koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tingjs"
+  ],
+  "author": "zhangtaifeng",
+  "license": "ISC",
+  "tfor":"koa"
+}
